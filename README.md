@@ -10,3 +10,12 @@
 ### Editor of choice:
 
 ```nano.exe```
+
+### Docker_exploration
+1. Going through some docker lessons. 
+
+```docker run -d -p 80:80 docker/getting-started```
+
+The cmd above enables you to access docker documetnation by running a web server on your localhost.
+
+
