@@ -18,4 +18,6 @@
 
 The cmd above enables you to access docker documetnation by running a web server on your localhost.
 
+Docker_Exploration Directory added/created for docker exercises.
+
 
