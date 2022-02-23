@@ -1,14 +1,7 @@
-#In this repo I study everything relating:
+# In this repo I study everything in relation to:
 
 ## Cloud
-
-### > Docker
-
-> Docker ps
-
-```docker ps ```
-```docker rm <image_id_name>```
-
+> Docker
 > Kubernetes
 > AWS/Azure/GCP
 
