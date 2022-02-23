@@ -1,6 +1,6 @@
 #In this repo I study everything relating:
 
-## cloud
+## Cloud
 
 ### > Docker
 ### > Kubernetes
