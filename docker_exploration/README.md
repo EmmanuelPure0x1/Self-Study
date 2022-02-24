@@ -1,20 +1,14 @@
-# Self-Study
-
-### Pushin changes to Git cmds:
-
-
-1. git add "."
-2. git commit -m "some comment"
-3. git push -u origin main
-
-### Editor of choice:
-
-```nano.exe```
+## Docker Study
 
 ### Docker_exploration
 1. Going through some docker lessons. 
 
-```docker run -d -p 80:80 docker/getting-started```
+> Docker commands:
+
+
+1. Seeing the running docker containers: ```docker ps```
+2. Running a Dcoker container named <docker/getting-started> mapped to port 80 on the local host in detach mode <-d>: ```docker run -d -p 80:80 docker/getting-started```
+
 
 The cmd above enables you to access docker documetnation by running a web server on your localhost.
 
