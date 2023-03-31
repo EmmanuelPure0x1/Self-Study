@@ -4,13 +4,16 @@ In this repository, I will be exploring the aspects of software that either make
 
 I will first explore common protocols that software use to make interconnected communications possible. 
 
-Protocol will include: 
+Protocols will include: 
 
 - DNS
 - ICMP
 - HTTP/HTTPS
-- SMB
+- SMTP
 - FTP
+- TCP/IP 
+- SNMP
+- ARP
 
 And more.. 
 
