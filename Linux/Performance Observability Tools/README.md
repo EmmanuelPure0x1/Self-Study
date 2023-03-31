@@ -1,6 +1,6 @@
 Exploring Performance Monitoring tools in Linux
 
 
-DMESG
+![Perfomance Tools Diag]('Linux Performance observability tools.jpeg')
 
 
