@@ -1,6 +1,6 @@
 Exploring Performance Monitoring tools in Linux
 
 
-![Perfomance Tools Diag]('Linux_Performance_observability_tools.jpeg')
+![Perfomance Tools Diagram]('observability_tools.JPEG')
 
 
